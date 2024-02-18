@@ -40,6 +40,9 @@
 ## Python
 
 ### [**Análise Exploratória de Dados — Python**](https://github.com/romulofernandes7/Python_EDAbankloan/)
+- Análise Exploratória de Dados em Python sobre um dataset de empréstimos bancários
+<p align="center">
+  <img alt="GIFconstruction" width="45%" src="https://github.com/romulofernandes7/Python_EDAbankloan/assets/125595991/3022565b-e36a-45ec-b11a-dcf4c88cc924">
 
 ## **Contato**
 Para perguntas, dúvidas, conselhos, comentários ou quiser entrar em contato comigo, pode ser feito através dos links abaixo
