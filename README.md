@@ -35,6 +35,8 @@
 <p align="center">
   <img alt="SQLtreinamento" width="45%" src="https://github.com/romulofernandes7/Portfolio/assets/125595991/7cfcd9e7-efcd-4de7-aba8-c021fdcd00c6">  
 
+
+
 ## Python
 
 ### [**Análise Exploratória de Dados — Python**](https://github.com/romulofernandes7/Python_EDAbankloan/)
